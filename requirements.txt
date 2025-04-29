@@ -1,0 +1,8 @@
+# requirements.txt
+mcp[cli]>=0.4.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+pyarrow>=14.0.1
+fastparquet>=2023.10.1
+PyPDF2>=3.0.0
+python-dotenv>=1.0.0
